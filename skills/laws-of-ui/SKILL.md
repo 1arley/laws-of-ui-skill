@@ -1,6 +1,6 @@
 ---
-name: laws-of-ux
-description: Audit existing web interfaces and plan new UI pages with practical, evidence-based guidance grounded in Laws of UI. Use for UI critiques, page audits, redesigns, screenshots, and page specifications; not general code review.
+name: laws-of-ui
+description: Audit existing web pages from live interfaces, screenshots, prototypes, or source code, and plan new pages with practical guidance grounded in Laws of UI. Use for UI critiques, redesigns, and page specifications; not general code review.
 ---
 
 # Laws of UI
